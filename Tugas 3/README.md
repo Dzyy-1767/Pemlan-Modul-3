@@ -34,6 +34,8 @@ README.md
 
 uraaaaaaaaaaaaaaa
 
+weiiii
+
 ---
 
 ## 💡 Penjelasan Setiap Program
