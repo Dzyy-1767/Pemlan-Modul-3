@@ -73,6 +73,7 @@ public class Main {
         System.out.println("Nama Pelanggan   : " + nama);
         System.out.printf("Total Tagihan    : Rp %, .0f\n", total);
         System.out.println("Terima kasih telah membayar tagihan tepat waktu!");
+        System.out.println("terimakasih ya");
     }
 
     /**
@@ -85,5 +86,6 @@ public class Main {
     public static String formatNama(String nama) {
         if (nama.isEmpty()) return nama;
         return nama.substring(0,1).toUpperCase() + nama.substring(1).toLowerCase();
+
     }
 }
